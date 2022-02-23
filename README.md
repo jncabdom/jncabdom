@@ -1,6 +1,7 @@
 # Hi there, I'm Nico (jncabdom) 👋 
 
 - 🌵 I’m currently training to become a FullStack developer (I 💗 React + Node)
+- 🔁 I'm very interested in CI/CD/DevOps using Docker, Docker-Compose, Github Actions, etc
 - 🧑‍💻 I'm about to finish my Computer Science degree!
 - 🎮 Fun fact: I love learning about videogame design as a hobby 
 
