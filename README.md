@@ -1,6 +1,6 @@
 # Hi there, I'm Nico (jncabdom) 👋 
 
-- 🌵 I’m currently learning FullStack developing (I 💗 React + Node)
+- 🌵 I’m currently training to become a FullStack developer (I 💗 React + Node)
 - 🧑‍💻 I'm about to finish my Computer Science degree!
 - 🎮 Fun fact: I love learning about videogame design as a hobby 
 
